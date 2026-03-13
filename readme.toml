@@ -1,15 +1,15 @@
 course_name = "图像处理"
-repo_type = "normal"
 course_code = "COMP3018"
-
+repo_type = "normal"
 description = "COMP3018 - 图像处理课程资料。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "卢光明"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "人挺好，几乎不点名。"
-
 
 [[sections]]
 title = "课程内容"
