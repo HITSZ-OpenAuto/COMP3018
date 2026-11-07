@@ -1,0 +1,137 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022873,
+    "hash": "cdbbe151fcc7f321c58f1384af6b0c441919a264"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "README.md": {
+    "size": 696,
+    "time": 1791961592,
+    "hash": "3b97386f6f95819ca23eb133773dfddf5848633a"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "exams/2019年春深圳图像处理期末考试回忆版.pdf": {
+    "size": 168327,
+    "time": 1757407272,
+    "hash": "fa7ad897ba7b9884a0013de50e56d23e2db8b302"
+  },
+  "exams/2022年春深圳图像处理期末考试回忆版.pdf": {
+    "size": 113111,
+    "time": 1757407272,
+    "hash": "fa7ad897ba7b9884a0013de50e56d23e2db8b302"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "readme.toml": {
+    "size": 606,
+    "time": 1791222531,
+    "hash": "fdc16357a51e8658fb10cd11c35657fb9c62e5ac"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754240971,
+    "hash": "46fbef3dd3845a1e4688adfcbeb30eee54eec90e"
+  },
+  "slides/2021_卢光明/DIP1-Introduction & Fundamentals.ppt": {
+    "size": 14060032,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP10-Colorimageprocessing1.ppt": {
+    "size": 7994880,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP11-Colorimageprocessing2.ppt": {
+    "size": 30046208,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP12-Representation.ppt": {
+    "size": 2200064,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP13-Representation2.ppt": {
+    "size": 6898688,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP14-Object_Recognition.ppt": {
+    "size": 12875264,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP15-Compression.ppt": {
+    "size": 3892736,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP16-Compression.ppt": {
+    "size": 2394624,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP2-Enhancement(PointProcessing).ppt": {
+    "size": 6341120,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP3-Enhancement(SpatialFiltering).ppt": {
+    "size": 3641856,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP4-Enhancement(FrequencyFiltering).ppt": {
+    "size": 2894848,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP5-Restoration.ppt": {
+    "size": 5001728,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP6-Morphology1.ppt": {
+    "size": 13860864,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP7-Morphology2.ppt": {
+    "size": 10868736,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP8-Segmentation1.ppt": {
+    "size": 10202112,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  },
+  "slides/2021_卢光明/DIP9-Segmentation2.ppt": {
+    "size": 4698624,
+    "time": 1755958519,
+    "hash": "4e2c36cd7417b028292d2b8972fd9746de7d2734"
+  }
+}
